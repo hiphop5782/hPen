@@ -1,4 +1,4 @@
-#hPen - Hwang Pen Application
+#hPen
 ###강의용 필기 보조 어플리케이션입니다
 
 ## 설치 방법
